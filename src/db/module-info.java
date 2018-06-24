@@ -1,4 +1,4 @@
-module example.myproj.db {
+module example.myproj.pdb {
     exports example.myproj.db;
 }
 
