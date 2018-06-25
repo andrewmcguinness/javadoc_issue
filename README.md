@@ -16,3 +16,5 @@ It shows the constructor taking two parameters, a CoreClass from module example.
 The link to CoreClass works, the link to DbClass doesn't. The href is to `../../../../db/DbClass.html`, but should be to `../../../../db/example/myproj/db/DbClass.html`
 
 StackOverflow link: [https://stackoverflow.com/questions/51000581/linking-between-modules-in-javadoc]
+
+Java Bug database link: [https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8205593]
